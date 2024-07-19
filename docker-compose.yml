@@ -1,0 +1,16 @@
+version: '3.9'
+
+services:
+  chatbot:
+    build: .
+    image: chatbot:latest
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./data:/app/data
+      - ./pickle:/app/pickle
+      - ./models:/app/models
+    environment:
+      - FLASK_ENV=production
+    command: gunicorn -w 4 -b 0.0.0.0:5000 run:app --log-level info --access-logfile -
+    restart: always

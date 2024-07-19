@@ -1,0 +1,8 @@
+Flask
+pandas
+spacy
+nltk
+scikit-learn
+sentence-transformers
+pickle-mixin
+gunicorn
