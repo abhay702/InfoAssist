@@ -54,7 +54,7 @@ Below are the detailed instructions to set up and run the InfoAssist Bot within 
 - Alternatively, download and extract the project files into a directory of your choice.
 
 #### Step 2: Configuration (Optional)
-The project shall fucntion with all the default settings if there are no discrepancies.
+The project shall function with all the default settings if there are no discrepancies.
 - Navigate to the project directory.
 - Open the `.env` file or any other configuration files provided to set the necessary environment variables like `PORT`, `HOST`, etc.
 - Update the settings according to your system and requirements.
