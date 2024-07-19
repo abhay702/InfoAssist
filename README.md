@@ -48,7 +48,7 @@ Below are the detailed instructions to set up and run the InfoAssist Bot within 
 #### Step 1: Obtain the Project
 - If available from a GitHub repository:
   ```bash
-  git clone https://github.com/abhay702/InfoAssist-Bot.git
+  git clone https://github.com/abhay702/InfoAssist.git
   cd InfoAssist-Bot
   ```
 - Alternatively, download and extract the project files into a directory of your choice.
