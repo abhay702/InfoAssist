@@ -122,7 +122,13 @@ This can also be given custom names, by using a reverse proxy, if the container 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+![screen-recorder-fri-jul-19-2024-23-19-21-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/0cdd2ba2-fcc7-44ce-8a27-b652cc15a6c6)
+
+
+![image](https://github.com/user-attachments/assets/ce1315e1-c583-4220-9f84-eab41f96d219)
+![image](https://github.com/user-attachments/assets/71cd82f2-54c2-4836-8def-52a8fc1ab148)
+
 
 
 ## References 
