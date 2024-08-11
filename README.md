@@ -59,15 +59,17 @@ docker-compose up -d
 - Log in with admin credentials to add or modify data.
 
 ### Troubleshooting
-- Check Docker container logs for errors:
-  ```bash
-  docker logs <container_name>
-  ```
 - Obtain container details:
   ```bash
   docker ps -a
   docker inspect <container_id>
   ```
+  
+- Check Docker container logs for errors:
+  ```bash
+  docker logs <container_name>
+  ```
+
 
 ## Usage
 
