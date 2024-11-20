@@ -2,7 +2,7 @@
 
 InfoAssist Bot streamlines the retrieval of frequently asked questions in the workplace, allowing employees to quickly access necessary information without consulting senior staff or colleagues. Housed within a Docker container, it is scalable and maintainable across different infrastructures.
 
-**Currently in use at the ONGC BKC office**, InfoAssist Bot provides quick answers to common queries, enhancing operational efficiency and productivity.
+**Currently in use at the Oil and Natural Gas Corportaion(ONGC) BKC office**, InfoAssist Bot provides quick answers to common queries, enhancing operational efficiency and productivity.
 
 ## Features
 
